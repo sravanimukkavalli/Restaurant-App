@@ -1,0 +1,16 @@
+.category-btn {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  margin-right: 5px;
+  font-size: 20px;
+  width: 190px;
+}
+.active-category {
+  color: #fa4141;
+}
+.active-btn {
+  text-decoration: underline;
+  text-decoration-color: #fa4141;
+  width: 190px;
+}
